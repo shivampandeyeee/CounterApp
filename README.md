@@ -23,7 +23,11 @@ This project is created as part of my learning process to understand basic Andro
 - Basic app structure in Android Studio  
 
 ## Screenshots
-_Add screenshots of the app UI here_
+![Counter App 2](https://github.com/user-attachments/assets/17eaa85d-c573-4a70-a6fe-791af4e4d69e)
+![Counter App 1](https://github.com/user-attachments/assets/2777f1a4-87dd-4eb0-b6bf-481bf15eafa2)
+![Counter App 3](https://github.com/user-attachments/assets/50778085-fc50-4e90-ad8e-c543d7db8921)
+
+
 
 ## Note
 This project is for learning purposes and will be improved as I continue learning Android development.
